@@ -4,7 +4,7 @@ How should we account for things like saftey in light of other factors when look
 
 <br/>
 
-The notebook can be found [here.](London Boulevard.ipynb)
+The notebook can be found [here.]([London Boulevard.ipynb](https://github.com/jcarterlab/London-Boulevard/blob/main/London%20Boulevard.ipynb))
 
 The data can be found [here.](https://github.com/jcarterlab/London-Boulevard/tree/main/Data)
 
